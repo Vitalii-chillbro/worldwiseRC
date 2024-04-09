@@ -1,0 +1,208 @@
+{
+    "cities": [
+      {
+        "id": "5365",
+        "cityName": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2024-04-07T08:16:08.585Z",
+        "notes": "Test live",
+        "position": {
+          "lat": "48.90583299419747",
+          "lng": "24.68455938102722"
+        }
+      },
+      {
+        "id": "b233",
+        "cityName": "Rzeszow",
+        "country": "Poland",
+        "emoji": "🇵🇱",
+        "date": "2019-10-01T08:19:49.000Z",
+        "notes": "Studing there",
+        "position": {
+          "lat": "50.037290593968955",
+          "lng": "22.052307128906254"
+        }
+      },
+      {
+        "id": "43cd",
+        "cityName": "Sitia",
+        "country": "Greece",
+        "emoji": "🇬🇷",
+        "date": "2017-08-01T08:22:42.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "35.214668635410895",
+          "lng": "26.098709106445316"
+        }
+      },
+      {
+        "id": "201b",
+        "cityName": "Gdansk",
+        "country": "Poland",
+        "emoji": "🇵🇱",
+        "date": "2017-06-26T08:25:20.000Z",
+        "notes": "Had a trip on a ship to Sweden",
+        "position": {
+          "lat": "54.33569509219818",
+          "lng": "18.682250976562504"
+        }
+      },
+      {
+        "id": "450b",
+        "cityName": "Gliwice",
+        "country": "Poland",
+        "emoji": "🇵🇱",
+        "date": "2021-09-01T08:27:43.000Z",
+        "notes": "Working there",
+        "position": {
+          "lat": "50.29270088226678",
+          "lng": "18.66336822509766"
+        }
+      },
+      {
+        "id": "3154",
+        "cityName": "Strykow",
+        "country": "Poland",
+        "emoji": "🇵🇱",
+        "date": "2018-07-05T08:29:18.000Z",
+        "notes": "Working there",
+        "position": {
+          "lat": "51.8979754733996",
+          "lng": "19.60647583007813"
+        }
+      },
+      {
+        "id": "26c1",
+        "cityName": "Nesebar",
+        "country": "Bulgaria",
+        "emoji": "🇧🇬",
+        "date": "2009-08-01T08:35:39.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "42.6602816947202",
+          "lng": "27.715244293212894"
+        }
+      },
+      {
+        "id": "a435",
+        "cityName": "Yalta",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2012-07-15T08:38:30.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "44.49916631650589",
+          "lng": "34.17846679687501"
+        }
+      },
+      {
+        "id": "3f1b",
+        "cityName": "Kyiv",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2016-05-01T08:40:19.000Z",
+        "notes": "Wedding in my cousin's",
+        "position": {
+          "lat": "50.41692361573131",
+          "lng": "30.520019531250004"
+        }
+      },
+      {
+        "id": "171f",
+        "cityName": "Lviv",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2012-05-27T08:43:51.000Z",
+        "notes": "School trip",
+        "position": {
+          "lat": "49.84996194408212",
+          "lng": "24.060058593750004"
+        }
+      },
+      {
+        "id": "9f30",
+        "cityName": "Solotvyno",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2008-08-07T08:45:51.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "47.94615342272739",
+          "lng": "23.87466430664063"
+        }
+      },
+      {
+        "id": "24ca",
+        "cityName": "Shatsk",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2014-08-12T08:47:21.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "51.494232313009476",
+          "lng": "23.95156860351563"
+        }
+      },
+      {
+        "id": "9424",
+        "cityName": "Karlskrona",
+        "country": "Sweden",
+        "emoji": "🇸🇪",
+        "date": "2017-07-27T08:50:55.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "56.157195792493205",
+          "lng": "15.787353515625002"
+        }
+      },
+      {
+        "id": "6f01",
+        "cityName": "Nesodden",
+        "country": "Norway",
+        "emoji": "🇳🇴",
+        "date": "2017-07-28T08:52:12.000Z",
+        "notes": "Summer trip",
+        "position": {
+          "lat": "59.856403706621535",
+          "lng": "10.702056884765627"
+        }
+      },
+      {
+        "id": "7465",
+        "cityName": "Kamianets-Podilskyi",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2012-06-29T08:58:23.000Z",
+        "notes": "School trip",
+        "position": {
+          "lat": "48.67526445738918",
+          "lng": "26.588287353515625"
+        }
+      },
+      {
+        "id": "22fc",
+        "cityName": "Ternopil",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2021-07-21T09:02:09.000Z",
+        "notes": "Helped to take the car for servicing",
+        "position": {
+          "lat": "49.556259615359664",
+          "lng": "25.618743896484375"
+        }
+      },
+      {
+        "id": "02b6",
+        "cityName": "Starokostyantyniv",
+        "country": "Ukraine",
+        "emoji": "🇺🇦",
+        "date": "2011-05-01T09:05:26.000Z",
+        "notes": "School trip ",
+        "position": {
+          "lat": "49.75393699836507",
+          "lng": "27.298278808593754"
+        }
+      }
+    ]
+  }
