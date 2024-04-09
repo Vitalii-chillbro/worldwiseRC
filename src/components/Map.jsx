@@ -38,9 +38,7 @@ function Map({ onMapClick }) {
   const navigate = useNavigate();
 
   const handleMapClick = (e) => {
-    const isMobileDevice = /iPhone|iPad|iPod|Android/i.test(
-      navigator.userAgent
-    );
+    const isMobileDevice = /iPhone|Android/i.test(navigator.userAgent);
     if (isMobileDevice) {
       onMapClick();
     }
