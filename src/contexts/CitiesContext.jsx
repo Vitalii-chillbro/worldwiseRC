@@ -6,7 +6,8 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL =
+  "https://my-json-server.typicode.com/Vitalii-chillbro/worldwiseRC";
 
 const CitiesContext = createContext();
 
